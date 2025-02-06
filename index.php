@@ -88,7 +88,7 @@ $result = $conn->query("SELECT * FROM events ORDER BY start_date ASC");
                         <th>Start Date</th>
                         <th>End Date</th>
                         <th>Description</th>
-                        <th>ActionsActionsActionsActionsActions</th>
+                        <th>Actions</th>
                     </tr>
                 </thead>
                 <tbody>
